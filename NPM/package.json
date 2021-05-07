@@ -13,6 +13,6 @@
     "bootstrap": "^4.4.1",
     "list": "^2.0.19",
     "mongoose": "^4.13.20",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
